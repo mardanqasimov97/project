@@ -1,0 +1,13 @@
+@media only screen and (max-width: 1440px) {
+    .wrapper{
+    width: 834px;
+    height: 633px;
+    }
+}
+    
+@media only screen and (max-width: 834px) {
+    .wrapper{
+    width: 375px;
+    height: 776px;
+    }
+}
